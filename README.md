@@ -2,10 +2,7 @@
 
 My solution to [QR code component](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H) on frontendmentor.
 
-
-
 ## Lessons Learned
-
 
 - flexbox
 - percentages
@@ -13,9 +10,7 @@ My solution to [QR code component](https://www.frontendmentor.io/challenges/qr-c
 
 ## Demo
 
-
-[demo](https://github.com/alexpenadev/fem-qrcode/new/main?readme=1)
-
+[demo](https://lucent-longma-27ff06.netlify.app/)
 
 ## 🔗 Links
 
